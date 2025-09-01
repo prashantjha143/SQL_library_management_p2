@@ -516,4 +516,4 @@ This project demonstrates the application of SQL skills in creating and managing
 2. **Set Up the Database**: Execute the SQL scripts in the `project2-Library_Management.sql` file to create and populate the database.
 3. **Explore and Modify**: Customize the queries as needed to explore different aspects of the data or answer additional questions.
 
-![LinkedIN](https://www.linkedin.com/in/prashant-jha-681a912b4/) :- Connect Professionally
+LinekedIn :- ![Connect Professionally](https://www.linkedin.com/in/prashant-jha-681a912b4/)
